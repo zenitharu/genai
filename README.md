@@ -1,0 +1,2 @@
+# genai
+generative ai solutions
